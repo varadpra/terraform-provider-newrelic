@@ -4,6 +4,8 @@ go 1.15
 
 require (
 	github.com/hashicorp/terraform-plugin-sdk v1.16.0
+	github.com/hashicorp/terraform-plugin-sdk/v2 v2.4.3
+	github.com/mitchellh/go-homedir v1.1.0
 	github.com/newrelic/go-agent/v3 v3.10.0
 	github.com/newrelic/go-insights v1.0.3
 	github.com/newrelic/newrelic-client-go v0.57.2
